@@ -10,7 +10,7 @@ This Weather App is a simple, user-friendly application that provides real-time 
 - Dynamic change of weather icons based on current weather conditions.
 - Error handling for invalid city names or API errors.
 
-> This project uses the OpenWeatherMap API. You need to sign up for an API key at OpenWeatherMap and replace your_api_key in the script with   your own API key.
+#This project uses the OpenWeatherMap API. You need to sign up for an API key at OpenWeatherMap and replace your_api_key in the script with   your own API key.
 
  
 
